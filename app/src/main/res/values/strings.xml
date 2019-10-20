@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ListViewWithBaseAdapter</string>
+
+    <string-array name="items_name">
+        <item>Jason</item>
+        <item>Tim</item>
+        <item>Bob</item>
+        <item>Jon</item>
+        <item>Kyle</item>
+        <item>max</item>
+    </string-array>
+
+    <string-array name="item_description">
+        <item>Ma</item>
+        <item>Strass</item>
+        <item>Lol</item>
+        <item>Gasley</item>
+        <item>Leclerc</item>
+        <item>Vettle</item>
+    </string-array>
+</resources>
